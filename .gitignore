@@ -1,0 +1,10 @@
+node_modules/
+bin/
+*.log
+
+docs/architecture.md
+docs/decision-routing.md
+docs/laya-integration.md
+docs/memory.md
+docs/research-notes.md
+docs/self-improvement.md
